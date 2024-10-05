@@ -1,0 +1,74 @@
+   
+
+.phots{
+   height: 100px;
+   width: 100px;
+    border-radius: 100px;
+    margin-bottom: -50px;
+   
+   
+  
+}
+.testimonials{
+ background-color: rgb(252, 255, 230);
+
+font-family: Karla;
+
+ padding: 50px;
+   
+
+   justify-content: space-between;
+}
+.rating-section{
+    margin-left:8rem;
+    
+}
+.rating-section p{
+   
+    padding: 2px 3px 4px 2px;
+    text-align: center;
+    margin-right: 8.5rem;
+    font-size: 20px ;
+   
+}
+.test-title{
+    text-align: center;
+    font-weight: bold;
+    font-size: 3.5rem;
+    margin-right:8.5rem ;
+}
+.name8{
+    margin-top: 80px;
+}
+.ratings{
+   
+    border-radius: 15px;
+    padding: 40px;
+    box-shadow: 0px 4px 12px rgba(0,0,0,0.1);
+    text-align: center;
+    width: 1100px;
+    display: flex;
+    flex-direction: row;
+    gap: 50px;
+   margin-left:7.0rem ;
+}
+
+.ratting{
+   
+ padding: 20px;
+ border: 3px solid #495E57;
+ border-radius: 15px;
+
+ 
+ 
+}
+.card-rating{
+    box-shadow: 0px 4px 12px rgba(0,0,0,0.1);
+}
+
+.ratings-stars{
+    list-style: none;
+    margin-right: 50px;
+    color:#495E57;
+    
+}

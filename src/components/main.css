@@ -1,0 +1,121 @@
+.menu-main{
+    margin-top: 5rem;
+    background-color: white;
+    
+}
+.head2{
+   background-color: white;   
+}
+
+.header{
+    display: flex;
+    justify-content: center;
+    gap: 5rem;
+    color: black;
+    font-size: 40px;
+    font-family: Karla;
+    font-weight: 800;
+    margin-left: 15rem;
+}
+.btn1{
+    margin-left: 30rem;
+    cursor: pointer;
+    width: 10rem;
+    height: 3rem;
+    border-radius: 15px;
+    border: none;
+    background-color: #f4ce14;
+    font-family: Karla;
+    font-size: medium;
+}
+.btn1:hover{
+    background-color: #495E57;
+    color:white;
+    transition: 0.6s ease;
+}
+.menus{
+    margin-top: 5.5rem;
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+   margin-left:11rem;
+    
+}
+.holder:hover{
+    background-color: rgba(192, 192, 192, 0.54);
+ border: 2px solid #495E57;
+    cursor: pointer;
+}
+.holder{
+   background-color: rgba(192, 192, 192, 0.725);
+   text-align: left;
+   font-family: Karla;
+    border-radius: 25px;
+    
+    
+}
+.cards{
+   
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    gap: 45px;
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 20px;
+    margin-right: 13rem;
+   
+    
+}
+.cards img{
+    width: 350px;
+    height: 250px;
+    border-radius: 25px;
+    
+}
+.content{
+    margin-left: 1rem;
+    margin-bottom: 2rem;
+    padding-bottom: 1rem;
+
+}
+.heading{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    gap: 3rem;
+    
+}
+.heading p{
+    
+    margin-left: 4.5rem;
+    margin-bottom: 0.5rem;
+    color:rgb(211, 40, 40);
+    font-weight: 800;
+}
+.btn2{
+    display: inline-block;
+    color: white;
+    font-family: karla;
+    border-radius: 25px;
+    border: none;
+    height: 30px;
+    width: 190px;
+   margin-left: 4rem;
+ margin-top: 2rem;
+ background-color:#495E57 ;
+
+ 
+}
+.content p{
+    margin-bottom: 0rem;
+    padding-bottom: 0rem;
+
+    font-weight: 200;
+}
+.btn2:hover{
+    background-color: #f4ce14;
+    color:white;
+    transition:  0.6s ease-in-out;
+    cursor: pointer;
+   
+    
+   
+}

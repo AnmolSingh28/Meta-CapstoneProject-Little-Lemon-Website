@@ -1,0 +1,39 @@
+.navbar{
+    display: flex;
+    align-items: center;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+.navs{
+    display: flex;
+    flex-direction: row;
+    justify-content:space-between;
+    justify-self:center;
+    gap: 25px;
+   border: none;
+    margin-left:0rem;
+    
+}
+.navitems{
+    list-style: none;
+    border: none;
+    font-family: karla;
+    font-size: medium;
+   
+}
+.navitems:hover{
+    text-decoration:  2px solid underline #f4ce14;
+    
+}
+.linked{
+    color: black;
+    text-decoration:none;
+    
+}
+.logo{
+    height: 70px;
+    width: 202px;
+    padding-left: 22rem;
+    padding-right:0rem;
+    
+}

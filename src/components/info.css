@@ -1,0 +1,48 @@
+.inform{
+    display: flex;
+    flex-direction: row;
+    margin-top: 3rem;
+    gap: 50px;
+    
+}
+.containers{
+    display: flex;
+    flex-direction: row;
+}
+.par{
+    margin-top: 5rem;
+    font-size: 1.5rem;
+}
+.texts{
+    font-family: Karla;
+    font-size: larger;
+    padding: 2px 3px 2px 3px;
+    margin-left:2rem;
+    margin-top: 2rem;
+}
+.texts h1{
+    font-size: 3rem;
+    color: #f4ce14;;
+}
+.texts h3{
+    font-size: 2rem ;
+}
+.photsection{
+    display: flex;
+    flex-direction: row;
+  margin-left:11rem;
+  margin-top: 6rem;
+  margin-right: 6rem;
+
+  
+    
+}
+
+.brother1{
+  position: relative;
+  left: 22%;
+  top:30%;
+  
+ 
+    
+}

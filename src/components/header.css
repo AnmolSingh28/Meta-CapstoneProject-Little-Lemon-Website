@@ -1,0 +1,66 @@
+.head{
+    background-color: #495E57;
+  display: flex;
+  flex-grow: none;
+   padding-left: 40px 0px;
+  
+    
+}
+.sec{
+    color: white;
+    padding: 13px 17%;
+    position: relative;
+}
+.title{
+    color: #f4ce14;
+    font-size: 64px;
+    font-family: Markazi Text;
+    margin-bottom: 0px;
+    font-weight: 590;
+}
+.chica{
+    margin-top: 10px;
+    font-size: 40px;
+    font-family: Karla;
+}
+.info{
+    font-size: 20px;
+    font-weight: 400;
+    margin: 20px 0;
+    font-family: Karla;
+    
+}
+.banner{
+    position: absolute;
+    right: 1%;
+    left: 89%;
+    width: 300px;
+    top: 30%;
+    
+}
+.banner img{
+    border-radius: 25px;
+}
+.btn{
+    margin-bottom: 2rem;
+    color:black;
+    width: 200px;
+    height: 60px;
+    border-radius: 15px;
+    background-color: #f4ce14;
+    border: none;
+    font-size: 18px;
+    font-family: Karla;
+    font-weight: 800;
+    margin-top: 2rem;
+    
+}
+.btn:hover{
+   background-color: silver;
+    cursor: pointer;
+   
+   
+    
+   
+    
+}
