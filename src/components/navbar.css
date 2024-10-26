@@ -21,6 +21,10 @@
     font-size: medium;
    
 }
+.nav-reserve{
+    text-decoration: none;
+    color: black;
+}
 .navitems:hover{
     text-decoration:  2px solid underline #f4ce14;
     

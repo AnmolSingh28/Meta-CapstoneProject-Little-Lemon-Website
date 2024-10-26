@@ -1,0 +1,103 @@
+.book-food{
+    display:flex;
+    justify-content: center;
+    justify-self: center;
+    gap:15px;
+    font-family: Karla;
+    border-top:50px solid #495E57;
+}
+.book-food-div{
+    gap:50px;
+    display:grid;
+}
+.header-booking{
+    font-size: 4rem;
+  color:#495E57
+}
+.date-picker{
+    display: grid;
+    gap: 15px;
+    
+    
+}
+.text-danger{
+    color:red;
+    font:950;
+}
+.time-picker{
+    display: grid;
+    gap: 15px;
+    
+}
+.number-guests{
+    display: grid;
+    gap: 15px;
+    
+}
+.occasion-select{
+    display: grid;
+    gap: 15px;
+    
+}
+.time-picker-select{
+    border:2px solid #495E57;;
+    border-radius: 10px;
+    width:25rem;
+    height:3rem
+    
+   
+}
+.header-booking{
+    text-align: center;
+}
+.select4{
+    border:2px solid #495E57;;
+    border-radius: 10px;
+    width:25rem;
+    height:3rem
+}
+.date-picker-input{
+    border:2px solid #495E57;;
+    border-radius: 10px;
+    width:25rem;
+    height:3rem
+    
+}
+.input-guests{
+    border:2px solid #495E57;;
+    border-radius: 10px;
+    width:25rem;
+    height:3rem;
+    transition:0.6s ease-in-out;
+}
+.input-guests:hover{
+    background-color:#f4cf1497;
+    transition: 0.6s ease-in-out;
+}
+.time-picker-select:hover{
+    background-color:#f4cf1497;
+    transition: 0.6s ease-in-out;
+}
+.select4:hover{
+    background-color:#f4cf1497;
+    transition: 0.6s ease-in-out;
+}
+.date-picker-input:hover{
+    background-color:#f4cf1497;
+    transition: 0.6s ease-in-out;
+}
+.btn-submit-btn{
+   
+    margin-left: 6rem;
+    height: 4.5rem;
+    width: 12rem ;
+    border: none;
+    border-radius: 20px;
+    background-color:#f4ce14;
+    font-family: Karla;
+    font-size: larger;
+    transition: 0.6s;
+}
+.btn-submit-btn:hover{
+    background-color: #495E57;
+}
